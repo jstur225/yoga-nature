@@ -1,0 +1,13 @@
+# 调研素材（含第三方版权图片，不公开）
+assets/
+
+# 工作目录与临时产物
+yoga-nature-work/
+tmp/
+output/
+examples/input.jpg
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store

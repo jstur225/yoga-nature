@@ -1,0 +1,4 @@
+interface:
+  display_name: "体式 × 自然"
+  short_description: "把瑜伽原片与形、势或意呼应的自然摄影合成为黑白二联图"
+  default_prompt: "使用 $yoga-nature 分析这张瑜伽照片，从形、势、意三条通道匹配自然画面并生成黑白 50:50 二联图。"
